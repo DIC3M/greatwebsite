@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-10-14, 17:16:17
+    Author     : Olivier
+*/
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width:99%;
+    background-color: black;
+-moz-border-radius: 3px;
+-khtml-border-radius: 3px;
+-webkit-border-radius: 3px;
+}
+
+
+   
+
+
+li {
+    float: left;
+}
+
+
+li a {
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+li a:hover:not(.active) {
+    background-color: aqua;
+}
+
+body {
+    background : url("https://dic3m.github.io/Schoolproject/vintage.jpg") repeat
+}
+
+h2{
+    color:gold
+        
+}
+
+h3:hover{
+    background-color: cyan;
+}
+
+p{
+    color: black;
+}
+
+h1{
+    color: black;
+}
+
+
+
+
+
+
+.conteneur {
+margin-top: 60px;
+}
+
+.footer {
+    float: right;
+   margin-top:370px;
+   color:cyan;
+}
+
+.footer:hover{
+    background-color: yellow
+}
+
+
+p:hover{
+background-color: yellow;
+   
+}
+
+
+footer{
+    margin-top:300px;
+  margin-right: 900px;
+ 
+}
+.accueil {
+    display: block;
+  margin-left: 330px;
+margin-top: 200px;
+
+}
+
+
+
